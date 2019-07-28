@@ -21,6 +21,8 @@ public class ItemsController {
         return "itemDetail";
 
     }
+    public void save(){}
+
 
 
 }
